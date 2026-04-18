@@ -19,7 +19,7 @@ The script requires Python 3.x and the following libraries:
 * `statsmodels`
 
 ## Usage
-The main script (`ICU_Nutrition_Analysis.py`) is designed for cross-platform compatibility, including local environments and Google Colab.
+The main script is designed for cross-platform compatibility, including local environments and Google Colab.
 
 1. Clone the repository or run the script directly in a Jupyter Notebook / Google Colab.
 2. Execute the script.
